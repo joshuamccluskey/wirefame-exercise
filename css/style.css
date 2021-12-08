@@ -85,9 +85,9 @@ main div {
 }
 
 main div:hover {
-  background-color: red;
+  background-color: #aaa;
   transition: 350ms;
-  color: yellow;
+  color: red;
 
 }
 footer {
