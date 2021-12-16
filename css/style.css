@@ -6,30 +6,29 @@ body {
 header{
   background-color: #444;
   height: 100px;
-  border: 2px solid black;
   display: flex;
-  justify-content:space-around;
 }
 
 header img {
-
+  margin-top: 15px;
+  margin-right: 0;
+  padding-right: 0;
 }
 
 header ul {
   display: flex;
-  margin-top: 15pxx;
-  
+  margin-left: 19.5em;
 }
 
-#link li {
-  margin-top: 3em;
+#image-pl {
+  margin-top: 45px;
+  margin-left: 0;
 }
 
 nav a {
   text-decoration: none;
   color: #aaa;
   padding: 30px;
-  border: 2px solid black;
 
 }
 
